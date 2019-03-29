@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Storybook:
+### Run the test runner (Jest) in a terminal:
+yarn test
+
+### Start the component explorer on port 9009:
+yarn run storybook
+
+### Run the frontend app proper on port 3000:
+yarn start
